@@ -16,8 +16,8 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
-      background_url: "src/img/banners/cbg-9.gif",
+      name: "Lake",
+      background_url: "src/img/banners/cbg-10.gif",
       categories: [
         {
           name: "bookmarks",
